@@ -1,7 +1,7 @@
-# CloudenabledWebApp
-CloudenabledWebApp for maven web app
+# DevOps-WebApp
+DevOps-WebApp for maven web app
 
-## By: Cloudenabled
+## By: Devops
 
 # Pre-reques:
 ---------------
