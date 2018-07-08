@@ -10,8 +10,8 @@ DevOps-WebApp for maven web app
   -- $sudo apt-get update
   -- $sudo apt-get install maven
   -- $mvn -version
---Install tomcat7 webserver
-  -- $apt-get install tomcat7
+--Install tomcat8 webserver
+  -- $apt-get install tomcat8
 
 
 To create a simple java project using maven, you need to open command prompt and run the archetype:generate command of mvn tool:
@@ -31,8 +31,8 @@ To create a simple java project using maven, you need to open command prompt and
  Deploy and Run the Maven Web Project
  =======================================
  Deploy the project on the server and access it by the following url:
- http://<host-name>:<portnumber>/projectname, for example: http://localhost:8080/CloudenabledWebApp
- By copying the generated war file onto /var/lib/tomcat7/webapp and restart the tomcat7 service
+ http://<host-name>:<portnumber>/projectname, for example: http://localhost:8080/DevOps-Training
+ By copying the generated war file onto /var/lib/tomcat8/webapp and restart the tomcat8 service
  
 For adding feature copy below lines and update index.html on line 33 
 
