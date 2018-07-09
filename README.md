@@ -1,6 +1,6 @@
 # DevOps-WebApp project integrated with CI model 
 -------------------------------
-DevOps-WebApp for maven web app project
+DevOps-WebApp for maven web app projects
 
 ## By: Devops
 
