@@ -1,5 +1,5 @@
 # DevOps-WebApp project integrated with CI model 
-# Added more line of code
+# Added more lines of code
 -------------------------------
 DevOps-WebApp for maven web app projects
 
